@@ -1,0 +1,15 @@
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/bin/Debug/net10.0/Arrays
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/bin/Debug/net10.0/Arrays.deps.json
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/bin/Debug/net10.0/Arrays.runtimeconfig.json
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/bin/Debug/net10.0/Arrays.dll
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/bin/Debug/net10.0/Arrays.pdb
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/obj/Debug/net10.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/obj/Debug/net10.0/Arrays.AssemblyInfoInputs.cache
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/obj/Debug/net10.0/Arrays.AssemblyInfo.cs
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/obj/Debug/net10.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/obj/Debug/net10.0/Arrays.sourcelink.json
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/obj/Debug/net10.0/Arrays.dll
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/obj/Debug/net10.0/refint/Arrays.dll
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/obj/Debug/net10.0/Arrays.pdb
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/obj/Debug/net10.0/Arrays.genruntimeconfig.cache
+/Users/swetangpandit/Desktop/Deakin University/Summer '26/SIT232 Object Oriented Development/external video codes/Arrays/Arrays/obj/Debug/net10.0/ref/Arrays.dll
